@@ -1,2 +1,3 @@
-Art generation with Neural Style Transfer
-Face Recognition
+1. Art generation with Neural Style Transfer
+
+2. Face Recognition
