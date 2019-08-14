@@ -2,8 +2,6 @@
 
 Pretrained Weights : https://github.com/iwantooxxoox/Keras-OpenFace/tree/master/weights
 
-Training data: https://grewsrjklntuohqvozwvxm.coursera-apps.org/tree/week4/Face%20Recognition/datasets
-
 
 
 References:
