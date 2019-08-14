@@ -10,3 +10,7 @@ http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat
 
 
 ## Face Recognition
+
+Face Verification - "is this the claimed person?"
+
+Face Recognition - "who is this person?"
