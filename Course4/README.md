@@ -1,4 +1,4 @@
-# Course 4 Convolutional Neural Networks
+# Convolutional Neural Networks
 
 ## DeepNet
 * LeNet-5
