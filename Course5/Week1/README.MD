@@ -1,5 +1,7 @@
-# Name Generation
+## Sequence Generation
 
-# Text Generation
+* Name Generation
 
-# Music Generation
+* Text Generation
+
+* Music Generation
