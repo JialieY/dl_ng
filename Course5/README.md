@@ -1,4 +1,4 @@
-# Course 5 Sequence Models
+# Sequence Models
 
 ## Models
 * RNN
