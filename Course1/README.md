@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning
 
-## Standard steps for building a Neural Network
+## Building a Neural Network
 
 1. Define the model structure (such as number of input features)
 2. Initialize the model's parameters
